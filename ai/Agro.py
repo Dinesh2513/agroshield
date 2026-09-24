@@ -56,4 +56,3 @@ async def predict(
         "analysisMode": "MOCK",
         "modelVersion": "mock-v1"
     }
-}
